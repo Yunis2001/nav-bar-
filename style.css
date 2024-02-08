@@ -5,3 +5,8 @@ body{
   font-family: "Lato, OpenSans";
   box-sizing: border-box;
 }
+
+.main{
+  color: orangered;
+  
+}
