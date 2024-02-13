@@ -24,4 +24,6 @@ body{
 }
 .main .nav-bar{
   width: 1200px;
+  float: left;
+  
 }
