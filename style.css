@@ -17,6 +17,7 @@ body{
   display: flex;
   justify-content: center;
   max-width: 100px;
+  background-position: center;
 
 }
 .main .nav-bar{
