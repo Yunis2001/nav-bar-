@@ -7,31 +7,31 @@
 
 .main{
   color: orangered;
-  font-style: italic;
-  font-size: xx-large;
-  font-weight: bolder;
-  text-decoration: underline;
-  text-align: center;
-  padding: 50px;
   display: flex;
-  justify-content: center;
-  max-width: 100px;
+  justify-content: center; 
   background-position: center;
   background-size: cover;
   height: 109vh;
-
+  background-color: rgba(yellow, green, blue, alpha);
+  width: 100%; 
 }
 .main .nav-bar{
   width: 1200px;
-  float: left;
+  height: 75px;
   margin: auto;
 }
-.icon{
+.main .nav-bar .icon{
   width: 200px;
   float: left;
   height: 70px;
 }
 
-.logo{
-  
+.main .nav-bar .icon .logo
+{
+  /* color: #ff7200;
+  font-size: 35px;
+  padding-left: 20px;
+  float: left;
+  padding-top: 10px; */
+
 }
