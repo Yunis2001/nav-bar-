@@ -15,6 +15,7 @@
   background-color: rgba(yellow, green, blue, alpha);
   width: 100%; 
   padding: 30px;
+  cursor: pointer;
 }
 .main .nav-bar{
   width: 20px;
