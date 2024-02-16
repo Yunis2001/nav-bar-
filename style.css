@@ -8,18 +8,19 @@
 .main{
   color: orangered;
   display: flex;
-  justify-content: center; 
+  justify-content: flex-start; 
   background-position: center;
   background-size: cover;
   height: 109vh;
   background-color: rgba(yellow, green, blue, alpha);
   width: 100%; 
+  padding: 30px;
 }
 .main .nav-bar{
-  width: 1200px;
-  height: 75px;
-  margin: auto;
+  width: 20px;
+  height: 7px; 
 }
+/*
 .main .nav-bar .icon{
   width: 200px;
   float: left;
@@ -34,4 +35,4 @@
  float: left;
  padding-top: 10px;
 
-}
+}  */
