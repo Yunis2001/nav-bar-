@@ -5,3 +5,12 @@
   font-family: "Open Sans"; 
   box-sizing: border-box;
 }
+.logo{
+  color: orangered;
+  padding: 7px;
+  margin: 20px;
+
+}
+.search{
+  display: flex;
+}
