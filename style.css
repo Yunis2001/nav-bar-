@@ -14,5 +14,28 @@
 .search{
    display: flex; 
    justify-content: center;
+   align-items: center;
+  /* margin-left: 700px; */
    
-}
+  }
+ /* 
+  .search .material-symbols-outlined{
+    font-size: 30px;
+    margin: 25px;
+  }
+  .search .log{
+    font-size: 15px;
+    color: black;
+  }
+  .search .magazine{
+    margin: 20px;
+    font-size: 15px;
+  }
+  .search .newsletter{
+    margin: 20px;
+    font-size: 15px;
+  }
+  .search .sweepstakes{
+    margin: 20px;
+    font-size: 15px;
+  } */
