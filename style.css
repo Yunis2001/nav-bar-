@@ -6,12 +6,14 @@
   box-sizing: border-box;
 }
 .header{
-  
+  display: grid;
+  /* place-items: center; */
 }
 .logo{
   color: orangered;
   padding: 7px; 
   margin: 20px; 
+  /* margin-left: 200px; */
 
 }
 .search{
