@@ -14,7 +14,15 @@
   padding: 7px; 
   margin: 20px; 
   margin-left: 200px; 
+ 
 
+}
+
+.logo .logo2{
+   margin-top: 100px;
+}
+.content.section{
+  
 }
 .search{
    display: flex; 
